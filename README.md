@@ -1,5 +1,6 @@
 # GUI_captcha
-a simple captcha verification program developped with python-tkinter.
+
+A captcha verification program developped with python-tkinter.
 
 Run "$>pip install -r requirements.txt" to install the required repositories.
 
